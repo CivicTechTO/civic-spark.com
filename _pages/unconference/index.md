@@ -58,6 +58,3 @@ Whether you’re deep in the work or just starting to explore, this is a space t
 
 No slides, no sales, no performance required.
 
-<h2 class="colorized-orange">Want to Talk Through a Session?</h2>
-
-Hit us up at speak@civic-spark.com — we’re happy to help.
